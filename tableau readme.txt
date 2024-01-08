@@ -1,8 +1,8 @@
 Data source:
 Monthly cvs file (july 2018-june2020)were collected from  https://citibikenyc.com/system-data
 
-Visualization:
-https://public.tableau.com/app/profile/mani.shah/viz/citi_17045691306480/story
+Visualization:[your link here]
+{https://public.tableau.com/app/profile/mani.shah/viz/citi_17045691306480/story}
 
 
 Analysis:
