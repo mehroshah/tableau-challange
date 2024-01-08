@@ -2,8 +2,7 @@ Data source:
 Monthly cvs file (july 2018-june2020)were collected from  https://citibikenyc.com/system-data
 
 Visualization:[your link here]
-{https://public.tableau.com/app/profile/mani.shah/viz/citi_17045691306480/story}
-
+<a href="https://public.tableau.com/app/profile/mani.shah/vizzes">Click Here to View Tableau!<a/>
 
 Analysis:
 1:No of trips:
